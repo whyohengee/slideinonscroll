@@ -2,8 +2,8 @@ You know those sites where images slide into view as you scroll down the page? T
 
 Check out:
 
-[My blog post](add link)
+[My blog post](http://yongclee.com/slide-in-on-scroll/)
 
 [Codepen](https://codepen.io/whyohengee/pen/ZoVPPG?editors=0010)
 
-[Github Pages](add link)
+[Github Pages](https://whyohengee.github.io/slideinonscroll/)
